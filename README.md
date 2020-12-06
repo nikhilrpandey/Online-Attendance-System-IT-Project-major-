@@ -45,6 +45,8 @@ MySQL: MySql is a database, widely used for accessing querying, updating, and ma
 
 **************
 Teacher
+
+
 Student
 **************
 
