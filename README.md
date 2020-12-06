@@ -18,25 +18,34 @@ Download and Unzip the file on your local system.
 copy Attendance-System-master folder and put this file inside root directory(for xampp is htdocs,for wamp is www and for lamp is var/www/
 
 ## Database Configuration
-'''Open phpmyadmin.
+Open phpmyadmin.
+
 Create Database attendance.
+
 Import database attendance.sql (file available inside the pacakege).
-Open Your browser put inside browser “http://localhost/Attendance-System-master/”.'''
+
+Open Your browser put inside browser “http://localhost/Attendance-System-master/”.
 
 
 ## Brief overview of the technology:
 Front end: HTML, CSS, JavaScript
 
 HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
+
 CSS : (Cascading Style Sheets) Create attractive Layout
+
 JavaScript: it is a programming language, commonly use with web browsers.
+
 Bootstrap : for responsive and mobile friendly design.
+
 JQuery.
+
 Ajax.
 
 ## Back end: PHP, MySQL
 
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
+
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 
@@ -53,28 +62,46 @@ Student
 Teacher:
 *******
 He/she is required to create account and then gets approved by the admin.
+
 Teacher can Choose/assigned Multiple lectures.
+
 Teacher can Manage Multiple lectures multiple students Attendance.
+
 View the list of students assigned to them.
+
 Mark attendance after each lecture
+
 View attendance of each student assigned to them.
+
 Generate/Download Report of attendance in PDF Format
+
 Check Average Attendance
+
 Update Profile
+
 Upload Profile Pic
+
 Update Password(encrypted format)
 
 
 Student:
 *******
 He/she needs to create an account.
+
 Students can register himself/herself for Multiple lectures.
+
 Students can Check Attendance for Multiple lectures.
+
 Can view their attendance from anywhere around the globe.
+
 Generate/Download Report of attendance in PDF Format
+
 Check Average Attendance
+
 Update Profile
+
 Upload Profile Pic
+
 Update Password(encrypted format)
 
 
