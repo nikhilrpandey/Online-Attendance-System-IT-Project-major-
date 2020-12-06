@@ -1,8 +1,9 @@
-Internet Technologies Major Project
+## Internet Technologies Major Project
 
-Attendance-System
-=================
+submitted by Nikhil Pandey (19MCMC11)
 
+## Attendance-System
+ 
 The project is meant to create an advanced attendance taking system to help teachers, 
 students and college administration by automating the entire process. It is designed keeping 
 scalability and code- reusability in mind, which means that the same project can be altered 
@@ -12,7 +13,18 @@ Object Oriented Programming, a Modular for designing web service, and following 
 parts of MVC model. This allows us to extend the project to mobile applications and other environments.
 
 
-Brief overview of the technology:
+## Installation Steps(Configuration):
+Download and Unzip the file on your local system.
+copy Attendance-System-master folder and put this file inside root directory(for xampp is htdocs,for wamp is www and for lamp is var/www/
+
+## Database Configuration
+'''Open phpmyadmin.
+Create Database attendance.
+Import database attendance.sql (file available inside the pacakege).
+Open Your browser put inside browser “http://localhost/Attendance-System-master/”.'''
+
+
+## Brief overview of the technology:
 Front end: HTML, CSS, JavaScript
 
 HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
@@ -22,14 +34,14 @@ Bootstrap : for responsive and mobile friendly design.
 JQuery.
 Ajax.
 
-Back end: PHP, MySQL
+## Back end: PHP, MySQL
 
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 
 
-Users / Actors Of System:
+## Users / Actors Of System:
 
 **************
 Teacher
